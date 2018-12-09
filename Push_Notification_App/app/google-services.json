@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748822495360",
+    "firebase_url": "https://pushnotificationapp-9e78c.firebaseio.com",
+    "project_id": "pushnotificationapp-9e78c",
+    "storage_bucket": "pushnotificationapp-9e78c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748822495360:android:ff7fd785f4fd63d9",
+        "android_client_info": {
+          "package_name": "rafat.com.androidnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748822495360-ekohrkgapf462mgt77ln059lf6qbhern.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rafat.com.androidnotifications",
+            "certificate_hash": "37303379fd8502f9ed161095ca950d1e248e4ccd"
+          }
+        },
+        {
+          "client_id": "748822495360-3f3d48l8ioluf27t1u3tfqd4a65hv3do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATD1VOh1LM-s_g-8T9hfsTPoRYisW8fK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748822495360-3f3d48l8ioluf27t1u3tfqd4a65hv3do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
